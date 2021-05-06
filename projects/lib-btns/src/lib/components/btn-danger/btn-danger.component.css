@@ -1,0 +1,21 @@
+.btn-danger-custom{
+    min-width: 100px; 
+    max-width: 230px; 
+    min-heigth: 40px; 
+    height: 40px;
+    border-radius: 10px;
+    background-color: #CD343A;
+    color: white; border: 0px; 
+    letter-spacing: 1px;
+    font-weight: bold
+}
+
+.btn-danger-custom:hover{
+  background-color: #CF5F64;
+transition: 0.5s
+}
+
+.btn-danger-custom:active{
+  background-color: #B12C32;
+transition: 0.5s
+}

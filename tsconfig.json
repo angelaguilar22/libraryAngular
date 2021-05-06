@@ -8,6 +8,12 @@
     "declaration": false,
     "downlevelIteration": true,
     "experimentalDecorators": true,
+    "paths": {
+      "lib-btns": [
+        "dist/lib-btns/lib-btns",
+        "dist/lib-btns"
+      ]
+    },
     "moduleResolution": "node",
     "importHelpers": true,
     "target": "es2015",
